@@ -1,0 +1,7 @@
+{ 
+    "firstName" : "Mike",
+    "lastName" : "Coulou", 
+    "password" : "thisIsAPassword",
+    "phone ": "5551234678",
+    "tosAgreement" : true 
+}
